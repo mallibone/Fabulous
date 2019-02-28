@@ -62,3 +62,4 @@ jobs:
         export PATH=$PATH:$HOME/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands
         ./build.sh
     displayName: 'Build Fabulous'
+
