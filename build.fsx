@@ -246,3 +246,5 @@ open Fake.Core.TargetOperators
   ==> "Full"
 
 Target.runOrDefault "Main"
+
+// Foo change
