@@ -10,6 +10,8 @@ nuget Fake.IO.FileSystem
 nuget Newtonsoft.Json //"
 #load "./.fake/build.fsx/intellisense.fsx"
 
+// some comment
+
 open Fake.Core
 open Fake.DotNet
 open Fake.DotNet.NuGet
